@@ -1,0 +1,46 @@
+[
+  {
+    "package": "eph",
+    "url": "https://github.com/ropensci/eph"
+  },
+  {
+    "package": "agroclimatico",
+    "url": "https://github.com/AgRoMeteorologiaINTA/agroclimatico"
+  },
+  {
+    "package": "naijR",
+    "url": "https://github.com/ropensci/naijR"
+  },
+  {
+    "package": "rgeeExtra",
+    "url": "https://github.com/r-earthengine/rgeeExtra"
+  },
+  {
+    "package": "karel",
+    "url": "https://github.com/ropensci/karel"
+  },
+  {
+    "package": "odbr",
+    "url": "https://github.com/hsvab/odbr"
+  },
+  {
+    "package": "chartkickR",
+    "url": "https://github.com/BWOlatunji/chartkickR"
+  },
+  {
+    "package": "Lextale",
+    "url": "https://github.com/Ghozayel/Lextale"
+  },
+  {
+    "package": "pcir",
+    "url": "https://github.com/fblpalmeira/pcir"
+  },
+  {
+    "package": "bulkreadr",
+    "url": "https://github.com/gbganalyst/bulkreadr"
+  },
+  {
+    "package": "bbsTaiwan",
+    "url": "https://github.com/SunnyTseng/bbsTaiwan"
+  }
+]
